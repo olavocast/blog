@@ -6,6 +6,7 @@ tags:
   - trivium
   - estudos
   - olavo-de-carvalho
+  - formação
 ---
 
 # O Estudo do Latim e o Domínio da Linguagem
