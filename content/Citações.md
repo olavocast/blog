@@ -16,4 +16,7 @@
 13. Dante Alighieri
 14. Graciliano Ramos
 15. Camilo Castelo Branco
-16. Josué Montell
+16. Josué Montello
+17. Carlos Drummond de Andrade
+18. Manuel Bandeira
+19. 
