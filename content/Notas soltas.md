@@ -9,4 +9,4 @@ começar a fazer uma lista de livros que eu gostaria de ter escrito. Há livros 
 
 o que entrou no ser não sai do ser, os efeitos podem ser esquecidos mas jamais desfeito.
 
-    
+"O modelo não é o sentido da vida, mas é o instrumento para realizar o sentido da vida." Olavo de Carvalho

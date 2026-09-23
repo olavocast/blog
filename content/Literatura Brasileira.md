@@ -2,17 +2,36 @@ A lista foi retirado da [[Pequena Bibliografia Crítica da Literatura Brasileira
 
 ---
 ### Machado de Assis
-1. Dom Casmurro - [[casaVelha.pdf]]
-2. 
-
+1. Dom Casmurro
+2. Memórias póstumas
+3.  Esaú e Jacó
+4. Quincas Borba
 ### Graciliano Ramos
-
+1. São Bernardo
+2. Angústia
+3. Vidas Secas
+4. Caetés
 ### Manuel Bandeira
-
+1. A cinza das horas
+2. Carnaval
+3. Libertinagem
+4. Estrela da manhã
 ### Cecília Meireles
-
+1. Espectros
+2. Viagem
+### José Lins do Rego
+1. Fogo morto
+2. Cangaceiros
+3. Pedra bonita
+4. Menino de engenho
+5. Doidinho
+6. Banguê
+7. O moleque Ricardo
+8. Riacho doce
 ### Herberto Sales
-
+1. Cascalho 
+2. Dados biográficos do finado Marcelino
+3. Alés dos marimbus
 ### Octávio Faria
 
 ### Clarice Linspector
@@ -23,6 +42,7 @@ A lista foi retirado da [[Pequena Bibliografia Crítica da Literatura Brasileira
 ### Guimarães Rosa
 
 ### Monteiro Lobato
+
 
 ### Padre Anchieta
 
@@ -45,7 +65,9 @@ A lista foi retirado da [[Pequena Bibliografia Crítica da Literatura Brasileira
 ### Euclides da Cunha
 
 ### Lima Barreto
-
+1. Triste fim de Policarpo Quaresma
+2. Recordações do escrivão Isaías Caminha
+3. Vida e morte de M. J. Gonzaga de Sá
 ### Augusto dos Anjos
 ### Oswald de Andrade
 

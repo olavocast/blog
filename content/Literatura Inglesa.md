@@ -57,3 +57,14 @@
 
 ### Emily Brontë
 1. O Morro dos Ventos Uivantes
+
+### John Bunyan
+1. Graça Abundante
+2. O peregrino
+3. A peregrina
+### Christopher Marlowe
+1. A trágica história do doutor Fausto
+2. 
+### John Milton
+1. Paraiso perdido
+2. Paraiso reconquistado 
